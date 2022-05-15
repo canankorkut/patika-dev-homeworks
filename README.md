@@ -1,2 +1,2 @@
 # patika.dev-homework
-Patika eğitim platformundan aldığım eğitimlerde yaptığım ödevler bulunmaktadır.
+Patika eğitim platformundan aldığım eğitimlerde yaptığım çalışmalar bulunmaktadır.
