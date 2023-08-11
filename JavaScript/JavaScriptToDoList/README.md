@@ -6,3 +6,5 @@
 4. Listeye boş karakter yazılması engellendi.
 5. Listeye ekleme yapıldığında ve boş karakter girildiğinde bildirim gösterilmesi sağlandı.
 
+![giff](https://github.com/canankorkut/patika.dev-homework/assets/99427828/352f5a30-12cd-4542-9605-c0a1086e509d)
+
